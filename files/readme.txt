@@ -1,4 +1,4 @@
-Edited by Sunwoo Kang
+Edited by Sunwoo Kang, Daniel Walder
 Merged CEEVEE with KARDS
 ==================================================================================================
 
@@ -101,10 +101,6 @@ Icons:
  - Font Awesome (http://fortawesome.github.io/Font-Awesome/)
  - Fontello (http://fontello.com/)
 
-Stock Photos and Graphics:
- - UnSplash.com (http://unsplash.com/)
- - Morguefile.com (http://www.morguefile.com/)
-
 Javascript Files:
 
  - JQuery (http://jquery.com/)
@@ -116,6 +112,8 @@ Javascript Files:
 
 
 --------------------------------------------------------------------------------------------------------- 
+
+Credit to Sunwoo Kang for merging CEEVEE with KARDS. 
 
 
 Thanks for downloading from Styleshout :)
